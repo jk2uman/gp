@@ -1,0 +1,78 @@
+body {
+background-color: Gold
+}
+.red {
+    font-size: 100px;
+    color: blue;
+    margin-left: 450px;
+    margin-top: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+img {
+    margin-left: 520px;
+}
+.black {
+    font-size: 75px;
+    color: green;
+    text-align: center;
+    margin-left: 1px;
+    margin-top: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: red;
+}
+.blue {
+    font-size: 25px;
+    color: red;
+    margin-left: 150px;
+    margin-top: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+ul {
+    font-size: 25px;
+    color: rgb(117, 100, 100);
+    margin-left: 150px;
+    margin-top: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+li {
+    font-size: 25px;
+    color: rgb(104, 3, 104);
+    margin-left: 150px;
+    margin-top: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+#First-Note {
+    background-color: black;    
+    color: blue;
+    width: 200px;
+    float:left;
+    position: relative;
+    top: -50px;
+    right: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 25px
+}
+
+#Second-Note {
+    background-color: black;    
+    color: blue;
+    width: 200px;
+    float:right;
+    position: relative;
+    top: -50px;
+    left: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 25px
+}
+
+#Final-Note {
+    font-size: 40px;
+    color: rgb(37, 22, 22);
+    margin-top: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
